@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Android-todo-lab</string>
+    <string name="createToDoButton">Create ToDo</string>
+    <string name="ToDoTitle">Task name</string>
+    <string name="ToDoContent">Task description</string>
+    <string name="titleToShort">The title is to short</string>
+    <string name="titleToLong">The title is to long</string>
+    <string name="titleMissing">Your ToDo is missing a title</string>
+    <string name="contentToShort">The description is to short</string>
+    <string name="contentToLong">The description is to long</string>
+    <string name="contentMissing">Your ToDo is missing a description</string>
+    <string name="updateToDoButton">Update todo</string>
+    <string name="deleteToDoButton">Delete todo</string>
+</resources>
